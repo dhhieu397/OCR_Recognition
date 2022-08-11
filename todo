@@ -1,0 +1,5 @@
+1. Setting up and installing EasyOCR
+2. Extracting text from images
+3. Displaying results using OpenCV
+#pip install torch torchvision torchaudio
+#pip install easyocr 
